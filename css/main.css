@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-pag {
+    height: 100vh;
+    background: rgba(255,45,157,1);
+    background: linear-gradient(45deg, rgba(255,45,157,1) 0%, rgba(255,45,157,1) 6%, rgba(254,91,104,1) 39%, rgba(248,162,74,1) 68%, rgba(244,204,64,1) 82%, rgba(242,231,66,1) 96%, rgba(242,231,66,1) 100%);    
+    padding-top: 90px;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.button-sub {
+    margin-top: 30px;
+    background-color: #FED835 ;
+}
+
+.collage {
+    height: 370px;
+    width: 100%;
+}
+
+.img1, .img3 , .img6{
+    width: 200px;
+    height: 200px;
+}
+
+.img2, .img4, .img5{
+    width: 270px;
+    height: 240px;
+}
+
+.color-principal {
+    background: linear-gradient(45deg, rgba(215,223,237,1) 0%, rgba(241,241,241,1) 94%, rgba(241,241,241,1) 100%);
+}
+
+.color-bar {
+    background-color: #160F36;
+}
+
+.fa {
+    color: #9E51FE;
+    font-size: 25px;
+}
+
+.title-bar {
+    color: #9E51FE;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.foto {
+    margin: 10px 15px;
+}
