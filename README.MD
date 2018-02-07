@@ -13,10 +13,11 @@ para hacer un collage con el estilo que se desee.
 
 ![collage](assets/images/pantalla2.PNG)
 
-## Desarrollado con:
+## Desarrollado con
 
-`HTML5` `Jquery` `CSS3` `Bootstrap` `API Drag and Drop`
+`HTML5` `Jquery` `CSS3` `Bootstrap` `API Drag and Drop` `jQuery UI`
 
-##  Créditos
+## Créditos
+
 * Elena Japa
 * Lilliam Haro
