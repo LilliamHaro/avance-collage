@@ -7,11 +7,11 @@ para hacer un collage con el estilo que se desee.
 
 * Ingresar nombre y contraseña (no acepta 123456 tampoco la longitud menor a 6 caracteres)
 
-![inicio](assets/imageS/pantalla1.PNG)
+![inicio](assets/images/pantalla1.PNG)
 
 * Se arrastra la imagen al contenedor superior y puedo formar el collage con el estilo que desee
 
-![collage](assets/imageS/pantalla2.PNG)
+![collage](assets/images/pantalla2.PNG)
 
 ## Desarrollado con:
 
