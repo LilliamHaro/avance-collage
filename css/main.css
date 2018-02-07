@@ -20,6 +20,7 @@
 .button-sub {
     margin-top: 30px;
     background-color: #FED835 ;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .collage {
@@ -58,4 +59,10 @@
 
 .foto {
     margin: 10px 15px;
+}
+
+.parrafo {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Quicksand', sans-serif;
 }
