@@ -7,6 +7,15 @@ $(document).ready(function() {
       } 
     });
     
+    $('#pass').on('focusout',function(){
+        var passNot = '123456';
+        var password = $('#pass').val();
+        if(password === passNot || password.length <6) {
+            alert('Ingrese contraseña valida');
+            $(this).val('');
+
+        }
+    });
     // valida si el correo es valido cuando ya no esta en focus
     // $('#email').focusout(function() {
     //   var PATTERNEMAIL = /^[a-zA-Z0-9\._-]+@[a-zA-Z0-9-]{2,}[.][a-zA-Z]{2,3}$/;
